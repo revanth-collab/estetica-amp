@@ -1,0 +1,6 @@
+{
+    "rewrites": [
+      { "source": "/amp/product123", "destination": "/amp/product123.html" }
+    ]
+  }
+  
